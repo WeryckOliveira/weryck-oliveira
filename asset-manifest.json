@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.f187df02.css",
-    "main.js": "/static/js/main.e633569e.js",
-    "static/media/meatmaster-video.mp4": "/static/media/meatmaster-video.678d54e6aefdefa40af6.mp4",
-    "static/media/pagamentos-video.mp4": "/static/media/pagamentos-video.be5423a68b5e0d9e1b13.mp4",
-    "static/media/oficina.png": "/static/media/oficina.d82c0d1bb166f7969c34.png",
-    "static/media/meatmaster.png": "/static/media/meatmaster.f6d875a6af6cefe54474.png",
-    "static/media/mytasks-video.mp4": "/static/media/mytasks-video.f8f9ebfb99d5f17f5039.mp4",
-    "static/media/tasks.png": "/static/media/tasks.aa97d35e9ce046f9c423.png",
-    "static/media/background-1.jpg": "/static/media/background-1.2b89430d60e372dc4bff.jpg",
-    "static/media/myself.png": "/static/media/myself.d39b021933e82a4e138d.png",
-    "static/media/pokedex.png": "/static/media/pokedex.5d978dc573f79d22d991.png",
-    "static/media/pagamentos.png": "/static/media/pagamentos.6d9328a9374b0101dfe4.png",
-    "static/media/logo.png": "/static/media/logo.3e9fce6886edfc26370e.png",
-    "index.html": "/index.html",
-    "main.f187df02.css.map": "/static/css/main.f187df02.css.map",
-    "main.e633569e.js.map": "/static/js/main.e633569e.js.map"
+    "main.css": "/weryck-oliveira/static/css/main.05a2e98f.css",
+    "main.js": "/weryck-oliveira/static/js/main.760ac3fc.js",
+    "static/media/meatmaster-video.mp4": "/weryck-oliveira/static/media/meatmaster-video.678d54e6aefdefa40af6.mp4",
+    "static/media/pagamentos-video.mp4": "/weryck-oliveira/static/media/pagamentos-video.be5423a68b5e0d9e1b13.mp4",
+    "static/media/oficina.png": "/weryck-oliveira/static/media/oficina.d82c0d1bb166f7969c34.png",
+    "static/media/meatmaster.png": "/weryck-oliveira/static/media/meatmaster.f6d875a6af6cefe54474.png",
+    "static/media/mytasks-video.mp4": "/weryck-oliveira/static/media/mytasks-video.f8f9ebfb99d5f17f5039.mp4",
+    "static/media/tasks.png": "/weryck-oliveira/static/media/tasks.aa97d35e9ce046f9c423.png",
+    "static/media/background-1.jpg": "/weryck-oliveira/static/media/background-1.2b89430d60e372dc4bff.jpg",
+    "static/media/myself.png": "/weryck-oliveira/static/media/myself.d39b021933e82a4e138d.png",
+    "static/media/pokedex.png": "/weryck-oliveira/static/media/pokedex.5d978dc573f79d22d991.png",
+    "static/media/pagamentos.png": "/weryck-oliveira/static/media/pagamentos.6d9328a9374b0101dfe4.png",
+    "static/media/logo.png": "/weryck-oliveira/static/media/logo.3e9fce6886edfc26370e.png",
+    "index.html": "/weryck-oliveira/index.html",
+    "main.05a2e98f.css.map": "/weryck-oliveira/static/css/main.05a2e98f.css.map",
+    "main.760ac3fc.js.map": "/weryck-oliveira/static/js/main.760ac3fc.js.map"
   },
   "entrypoints": [
-    "static/css/main.f187df02.css",
-    "static/js/main.e633569e.js"
+    "static/css/main.05a2e98f.css",
+    "static/js/main.760ac3fc.js"
   ]
 }
