@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.a186de33.css",
-    "main.js": "./static/js/main.6dcf29df.js",
+    "main.js": "./static/js/main.32189e7c.js",
     "static/media/meatmaster-video.mp4": "./static/media/meatmaster-video.678d54e6aefdefa40af6.mp4",
     "static/media/cv.pdf": "./static/media/cv.999faeeb15a7a2f7cbe8.pdf",
     "static/media/pagamentos-video.mp4": "./static/media/pagamentos-video.be5423a68b5e0d9e1b13.mp4",
@@ -16,10 +16,10 @@
     "static/media/logo.png": "./static/media/logo.3e9fce6886edfc26370e.png",
     "index.html": "./index.html",
     "main.a186de33.css.map": "./static/css/main.a186de33.css.map",
-    "main.6dcf29df.js.map": "./static/js/main.6dcf29df.js.map"
+    "main.32189e7c.js.map": "./static/js/main.32189e7c.js.map"
   },
   "entrypoints": [
     "static/css/main.a186de33.css",
-    "static/js/main.6dcf29df.js"
+    "static/js/main.32189e7c.js"
   ]
 }
